@@ -8,7 +8,7 @@ All account data is stored locally in a JSON file.
 
 # Tech Stack
 Python 3
-Streamlit (for interactive UI)
+Streamlit (for interactive UI),
 JSON (for local storage)
 
 
